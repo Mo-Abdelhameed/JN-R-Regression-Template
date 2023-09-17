@@ -6,3 +6,4 @@ model_inputs_outputs/model/
 train.r
 predict.r
 .ipynb_checkpoints/
+test.ipynb
